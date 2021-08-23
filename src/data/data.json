@@ -1,0 +1,673 @@
+{
+    "teams": [
+        {
+            "id": "T01",
+            "meta": {
+                "name": "Arsenal",
+                "stadium": "Emirates"
+            },
+            "images": {
+                "crest": "https://resources.premierleague.com/premierleague/badges/50/t3.png",
+                "stadium": "https://www.premierleague.com/resources/prod/d34efdf-3658/i/stadiums/club-profile/t3.jpg"
+            },
+            "players": [
+                {
+                    "jerseyNo": 1,
+                    "name": "Bernd Leno",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p80201.png",
+                    "nationality": {
+                        "country": "Germany",
+                        "nationality": "German",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 13,
+                    "name": "Rúnar Alex Rúnarsson",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p115918.png",
+                    "nationality": {
+                        "country": "Iceland",
+                        "nationality": "Icelandic",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 44,
+                    "name": "Aaron Ramsdale",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p225321.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 2,
+                    "name": "Héctor Bellerín",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p98745.png",
+                    "nationality": {
+                        "country": "Spain",
+                        "nationality": "Spanish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 3,
+                    "name": "Kieran Tierney",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p192895.png",
+                    "nationality": {
+                        "country": "Scotland",
+                        "nationality": "Scottish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 16,
+                    "name": "Rob Holding",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p156074.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 22,
+                    "name": "Pablo Marí",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p92371.png",
+                    "nationality": {
+                        "country": "Spain",
+                        "nationality": "Spanish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 4,
+                    "name": "Ben White",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p198869.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 7,
+                    "name": "Bukayo Saka",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p223340.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 5,
+                    "name": "Thomas Partey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p167199.png",
+                    "nationality": {
+                        "country": "Ghana",
+                        "nationality": "Ghanian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 10,
+                    "name": "Emile Smith Rowe",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p209289.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 34,
+                    "name": "Granit Xhaka",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p84450.png",
+                    "nationality": {
+                        "country": "Switzerland",
+                        "nationality": "Swiss",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+                    }
+                },
+                {
+                    "jerseyNo": 8,
+                    "name": "Martin Ødegaard",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p184029.png",
+                    "nationality": {
+                        "country": "Norway",
+                        "nationality": "Norwegian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/2560px-Flag_of_Norway.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 9,
+                    "name": "Alexandre Lacazette",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p59966.png",
+                    "nationality": {
+                        "country": "France",
+                        "nationality": "French",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 14,
+                    "name": "Pierre-Emerick Aubameyang",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p54694.png",
+                    "nationality": {
+                        "country": "Gabon",
+                        "nationality": null,
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1280px-Flag_of_Gabon.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 35,
+                    "name": "Gabriel Martinelli",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p444145.png",
+                    "nationality": {
+                        "country": "Brazil",
+                        "nationality": "Brazilian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+                    }
+                }
+            ],
+            "directory": {
+                "address": "Highbury House, 75 Drayton Park, London, N5 1BU",
+                "contact": {
+                    "main": {
+                        "label": "Main Switchboard",
+                        "tel": "02076195003"
+                    },
+                    "ticket": {
+                        "label": "Contact Center/Ticket Office",
+                        "tel": "02076195003"
+                    }
+                },
+                "website": "www.arsenal.com",
+                "enquiry": "ask@arsenal.com",
+                "board": [
+                    {
+                        "position": "Chief Executive Officer",
+                        "names": ["Vinai Venkatesham"]
+                    },
+                    {
+                        "position": "Company Secretary",
+                        "names": ["David Miles"]
+                    },
+                    {
+                        "position": "First-team Manager",
+                        "names": ["Mikel Arteta"]
+                    },
+                    {
+                        "position": "Assistant Coaches",
+                        "names": ["Albert Stuivenberg", "Stephen Round"]
+                    },
+                    {
+                        "position": "Technical Director",
+                        "names": ["Edu Gaspar"]
+                    },
+                    {
+                        "position": "Academy Manager",
+                        "names": ["Per Mertesacker"]
+                    },
+                    {
+                        "position": "Directors",
+                        "names": [
+                            "Stanley Kroenke",
+                            "Tim Lewis",
+                            "Richard Kerr",
+                            "Lord Harris of Peckham",
+                            "Josh Kroenke"
+                        ]
+                    }
+                ]
+            },
+            "social": {
+                "facebook": "https://www.facebook.com/arsenal",
+                "twitter": "https://www.twitter.com/Arsenal",
+                "youtube": "https://www.youtube.com/arsenal",
+                "instagram": "https://www.instagram.com/arsenal"
+            }
+        }
+    ],
+    "standings": [
+        {
+            "name": {
+                "short": "Chelsea",
+                "long": "Chelsea"
+            },
+            "id": "T06",
+            "stats": {
+                "played": 2,
+                "won": 2,
+                "draw": 0,
+                "lost": 0,
+                "goalDifference": "+5",
+                "points": 6
+            },
+            "position": 1
+        },
+        {
+            "name": {
+                "short": "Liverpool",
+                "long": "Liverpool FC"
+            },
+            "id": "T11",
+            "stats": {
+                "played": 2,
+                "won": 2,
+                "draw": 0,
+                "lost": 0,
+                "goalDifference": "+5",
+                "points": 6
+            },
+            "position": 2
+        },
+        {
+            "name": {
+                "short": "Brighton",
+                "long": "Brighton Hove and Albion"
+            },
+            "id": "T04",
+            "stats": {
+                "played": 2,
+                "won": 2,
+                "draw": 0,
+                "lost": 0,
+                "goalDifference": "+3",
+                "points": 6
+            },
+            "position": 3
+        },
+        {
+            "name": {
+                "short": "Spurs",
+                "long": "Tottenham Hotspurs"
+            },
+            "id": "T17",
+            "stats": {
+                "played": 2,
+                "won": 2,
+                "draw": 0,
+                "lost": 0,
+                "goalDifference": "+2",
+                "points": 6
+            },
+            "position": 4
+        },
+        {
+            "name": {
+                "short": "Man Utd",
+                "long": "Manchester United"
+            },
+            "id": "T13",
+            "stats": {
+                "played": 2,
+                "won": 1,
+                "draw": 1,
+                "lost": 0,
+                "goalDifference": "+4",
+                "points": 4
+            },
+            "position": 5
+        },
+        {
+            "name": {
+                "short": "Everton",
+                "long": "Everton FC"
+            },
+            "id": "T08",
+            "stats": {
+                "played": 2,
+                "won": 1,
+                "draw": 1,
+                "lost": 0,
+                "goalDifference": "+2",
+                "points": 4
+            },
+            "position": 6
+        },
+        {
+            "name": {
+                "short": "Brentford",
+                "long": "Brentford FC"
+            },
+            "id": "T03",
+            "stats": {
+                "played": 2,
+                "won": 1,
+                "draw": 1,
+                "lost": 0,
+                "goalDifference": "+2",
+                "points": 4
+            },
+            "position": 7
+        },
+        {
+            "name": {
+                "short": "Man City",
+                "long": "Manchester City"
+            },
+            "id": "T12",
+            "stats": {
+                "played": 2,
+                "won": 1,
+                "draw": 0,
+                "lost": 1,
+                "goalDifference": "+4",
+                "points": 3
+            },
+            "position": 8
+        },
+        {
+            "name": {
+                "short": "West Ham",
+                "long": "West Ham United"
+            },
+            "id": "T19",
+            "stats": {
+                "played": 1,
+                "won": 1,
+                "draw": 0,
+                "lost": 0,
+                "goalDifference": "+2",
+                "points": 3
+            },
+            "position": 9
+        },
+        {
+            "name": {
+                "short": "Aston Villa",
+                "long": "Aston Villa"
+            },
+            "id": "T02",
+            "stats": {
+                "played": 2,
+                "won": 1,
+                "draw": 0,
+                "lost": 1,
+                "goalDifference": "+1",
+                "points": 3
+            },
+            "position": 10
+        },
+        {
+            "name": {
+                "short": "Leicester",
+                "long": "Leicester City"
+            },
+            "id": "T10",
+            "stats": {
+                "played": 1,
+                "won": 1,
+                "draw": 0,
+                "lost": 0,
+                "goalDifference": "+1",
+                "points": 3
+            },
+            "position": 11
+        },
+        {
+            "name": {
+                "short": "Watford",
+                "long": "Watford FC"
+            },
+            "id": "T18",
+            "stats": {
+                "played": 2,
+                "won": 1,
+                "draw": 0,
+                "lost": 1,
+                "goalDifference": "-1",
+                "points": 3
+            },
+            "position": 12
+        },
+        {
+            "name": {
+                "short": "Southampton",
+                "long": "Southampton FC"
+            },
+            "id": "T16",
+            "stats": {
+                "played": 2,
+                "won": 0,
+                "draw": 1,
+                "lost": 1,
+                "goalDifference": "-2",
+                "points": 1
+            },
+            "position": 13
+        },
+        {
+            "name": {
+                "short": "Crystal Palace",
+                "long": "Crystal Palace"
+            },
+            "id": "T07",
+            "stats": {
+                "played": 2,
+                "won": 0,
+                "draw": 1,
+                "lost": 1,
+                "goalDifference": "-3",
+                "points": 1
+            },
+            "position": 14
+        },
+        {
+            "name": {
+                "short": "Leeds",
+                "long": "Leeds United"
+            },
+            "id": "T10",
+            "stats": {
+                "played": 2,
+                "won": 0,
+                "draw": 1,
+                "lost": 1,
+                "goalDifference": "-4",
+                "points": 1
+            },
+            "position": 15
+        },
+        {
+            "name": {
+                "short": "Wolves",
+                "long": "Wolverhampton Wanderers"
+            },
+            "id": "T20",
+            "stats": {
+                "played": 2,
+                "won": 0,
+                "draw": 0,
+                "lost": 2,
+                "goalDifference": "-2",
+                "points": 0
+            },
+            "position": 16
+        },
+        {
+            "name": {
+                "short": "Burnley",
+                "long": "Burnley FC"
+            },
+            "id": "T05",
+            "stats": {
+                "played": 2,
+                "won": 0,
+                "draw": 0,
+                "lost": 2,
+                "goalDifference": "-3",
+                "points": 0
+            },
+            "position": 17
+        },
+        {
+            "name": {
+                "short": "Newcastle",
+                "long": "Newcastle United"
+            },
+            "id": "T18",
+            "stats": {
+                "played": 2,
+                "won": 0,
+                "draw": 0,
+                "lost": 2,
+                "goalDifference": "-4",
+                "points": 0
+            },
+            "position": 18
+        },
+        {
+            "name": {
+                "short": "Arsenal",
+                "long": "Arsenal FC"
+            },
+            "id": "T01",
+            "stats": {
+                "played": 2,
+                "won": 0,
+                "draw": 0,
+                "lost": 2,
+                "goalDifference": "-4",
+                "points": 0
+            },
+            "position": 19
+        },
+        {
+            "name": {
+                "short": "Norwich",
+                "long": "Norwich City FC"
+            },
+            "id": "T15",
+            "stats": {
+                "played": 2,
+                "won": 0,
+                "draw": 0,
+                "lost": 2,
+                "goalDifference": "-8",
+                "points": 0
+            },
+            "position": 20
+        }
+    ],
+    "fixtures": [
+        {
+            "matchWeek": 1,
+            "date": {
+                "start": "2021-08-12T18:30:00.000Z",
+                "end": "2021-08-15T18:30:00.000Z"
+            },
+            "matches": [
+                {
+                    "teams": {
+                        "home": "T03",
+                        "away": "T01"
+                    },
+                    "score": "2-0",
+                    "day": "2021-08-13T18:30:00.000Z",
+                    "stadium": "Brentford Community Stadium, Brentford"
+                },
+                {
+                    "teams": {
+                        "home": "T13",
+                        "away": "T09"
+                    },
+                    "score": "5-1",
+                    "day": "2021-08-13T18:30:00.000Z",
+                    "stadium": "Old Trafford, Manchester"
+                },
+                {
+                    "teams": {
+                        "home": "T05",
+                        "away": "T04"
+                    },
+                    "score": "1-2",
+                    "day": "2021-08-13T18:30:00.000Z",
+                    "stadium": "Turf Moor, Burnley"
+                },
+                {
+                    "teams": {
+                        "home": "T06",
+                        "away": "T07"
+                    },
+                    "score": "3-0",
+                    "day": "2021-08-13T18:30:00.000Z",
+                    "stadium": "Stamford Bridge, London"
+                },
+                {
+                    "teams": {
+                        "home": "T08",
+                        "away": "T16"
+                    },
+                    "score": "3-1",
+                    "day": "2021-08-13T18:30:00.000Z",
+                    "stadium": "Goodison Park, Liverpool"
+                },
+                {
+                    "teams": {
+                        "home": "T10",
+                        "away": "T20"
+                    },
+                    "score": "1-0",
+                    "day": "2021-08-13T18:30:00.000Z",
+                    "stadium": "King Power Stadium, Leicester"
+                },
+                {
+                    "teams": {
+                        "home": "T18",
+                        "away": "T02"
+                    },
+                    "score": "3-2",
+                    "day": "2021-08-13T18:30:00.000Z",
+                    "stadium": "Vicarage Road, Watford"
+                },
+                {
+                    "teams": {
+                        "home": "T15",
+                        "away": "T11"
+                    },
+                    "score": "0-3",
+                    "day": "2021-08-13T18:30:00.000Z",
+                    "stadium": "Carrow Road, Norwich"
+                },
+                {
+                    "teams": {
+                        "home": "T14",
+                        "away": "T19"
+                    },
+                    "score": "2-4",
+                    "day": "2021-08-15T18:30:00.000Z",
+                    "stadium": "St. James' Park, Newcastle"
+                },
+                {
+                    "teams": {
+                        "home": "T16",
+                        "away": "T12"
+                    },
+                    "score": "1-0",
+                    "day": "2021-08-15T18:30:00.000Z",
+                    "stadium": "Tottenham Hotspur Stadium, London"
+                }
+            ]
+        }
+    ]
+}
