@@ -245,6 +245,1501 @@
                 "youtube": "https://www.youtube.com/arsenal",
                 "instagram": "https://www.instagram.com/arsenal"
             }
+        },
+        {
+            "id": "T02",
+            "meta": {
+                "name": "Aston Villa",
+                "stadium": "Villa Park"
+            },
+            "images": {
+                "crest": "https://resources.premierleague.com/premierleague/badges/t7.svg",
+                "stadium": "https://www.premierleague.com/resources/prod/d34efdf-3658/i/stadiums/club-profile/t7.jpg"
+            },
+            "players": [
+                {
+                    "jerseyNo": 12,
+                    "name": "Jed Steer",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p79852.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 26,
+                    "name": "Emiliano Martínez",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p98980.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 38,
+                    "name": "Viljami Sinisalo",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p248164.png",
+                    "nationality": {
+                        "country": "Finland",
+                        "nationality": "Finnish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png"
+                    }
+                },
+                {
+                    "jerseyNo": 2,
+                    "name": "Matthew Cash",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199796.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 4,
+                    "name": "Ezri Konsa",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199798.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 5,
+                    "name": "Tyrone Mings",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p149484.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 18,
+                    "name": "Ashley Young",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p18892.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 16,
+                    "name": "Axel Tuanzebe",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p180804.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 7,
+                    "name": "John McGinn",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p122806.png",
+                    "nationality": {
+                        "country": "Scotland",
+                        "nationality": "Scottish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 21,
+                    "name": "Anwar El Ghazi",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p193488.png",
+                    "nationality": {
+                        "country": "Netherlands",
+                        "nationality": "Dutch",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 41,
+                    "name": "Jacob Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p232653.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 10,
+                    "name": "Emiliano Buendiao",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p195546.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 40,
+                    "name": "Aaron Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p447715.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 9,
+                    "name": "Wesley",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p213345.png",
+                    "nationality": {
+                        "country": "Brazil",
+                        "nationality": "Brazilian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 11,
+                    "name": "Ollie Watkins",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178301.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 20,
+                    "name": "Danny Ings",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p84939.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                }
+            ],
+            "directory": {
+                "address": "Villa Park, Birmingham, B6 6HE",
+                "contact": {
+                    "main": {
+                        "label": "Main Switchboard",
+                        "tel": "0121 327 2299"
+                    },
+                    "ticket": {
+                        "label": "Contact Center/Ticket Office",
+                        "tel": "0333 323 1874"
+                    }
+                },
+                "website": "www.avfc.co.uk",
+                "enquiry": "postmaster@avfc.co.uk",
+                "board": [
+                    {
+                        "position": "Co-Chariman",
+                        "names": ["Nassef Sawiris", "Wesley Edens"]
+                    },
+                    {
+                        "position": "Chief Executive Officer",
+                        "names": ["Christian Purslow"]
+                    },
+                    {
+                        "position": "Club Secretary",
+                        "names": ["Sharon Barnhurst"]
+                    },
+                    {
+                        "position": "First-team Manager",
+                        "names": ["Dean Smith"]
+                    },
+                    {
+                        "position": "Assistant Coaches",
+                        "names": ["Richard O'Kelly", "John Terry", "Craig Shakespeare"]
+                    },
+                    {
+                        "position": "Technical Director",
+                        "names": null
+                    },
+                    {
+                        "position": "Academy Manager",
+                        "names": ["Mark Harrison"]
+                    },
+                    {
+                        "position": "Board Members",
+                        "names": [
+                            "Nassef Sawiris",
+                            "Wes Edens",
+                            "Christian Purslow"
+                        ]
+                    }
+                ]
+            },
+            "social": {
+                "facebook": "https://www.facebook.com/avfcofficial",
+                "twitter": "https://www.twitter.com/avfcofficial",
+                "youtube": "https://www.youtube.com/avfcofficial",
+                "instagram": "https://www.instagram.com/avfcofficial"
+            }
+        },
+        {
+            "id": "T03",
+            "meta": {
+                "name": "Brentford",
+                "stadium": "Brentford Community Stadium"
+            },
+            "images": {
+                "crest": "https://resources.premierleague.com/premierleague/badges/t94.svg",
+                "stadium": "https://www.premierleague.com/resources/prod/d34efdf-3658/i/stadiums/club-profile/t94.jpg"
+            },
+            "players": [
+                {
+                    "jerseyNo": 12,
+                    "name": "Jed Steer",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p79852.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 26,
+                    "name": "Emiliano Martínez",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p98980.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 38,
+                    "name": "Viljami Sinisalo",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p248164.png",
+                    "nationality": {
+                        "country": "Finland",
+                        "nationality": "Finnish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png"
+                    }
+                },
+                {
+                    "jerseyNo": 2,
+                    "name": "Matthew Cash",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199796.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 4,
+                    "name": "Ezri Konsa",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199798.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 5,
+                    "name": "Tyrone Mings",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p149484.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 18,
+                    "name": "Ashley Young",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p18892.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 16,
+                    "name": "Axel Tuanzebe",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p180804.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 7,
+                    "name": "John McGinn",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p122806.png",
+                    "nationality": {
+                        "country": "Scotland",
+                        "nationality": "Scottish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 21,
+                    "name": "Anwar El Ghazi",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p193488.png",
+                    "nationality": {
+                        "country": "Netherlands",
+                        "nationality": "Dutch",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 41,
+                    "name": "Jacob Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p232653.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 10,
+                    "name": "Emiliano Buendiao",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p195546.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 40,
+                    "name": "Aaron Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p447715.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 9,
+                    "name": "Wesley",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p213345.png",
+                    "nationality": {
+                        "country": "Brazil",
+                        "nationality": "Brazilian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 11,
+                    "name": "Ollie Watkins",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178301.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 20,
+                    "name": "Danny Ings",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p84939.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                }
+            ],
+            "directory": {
+                "address": "166 Lionel Road North, Brentford, TW8 9QT",
+                "contact": {
+                    "main": {
+                        "label": "Main Switchboard",
+                        "tel": "0208 847 2511"
+                    },
+                    "ticket": {
+                        "label": "Contact Center/Ticket Office",
+                        "tel": "0333 005 8521"
+                    }
+                },
+                "website": "www.brentfordfc.com",
+                "enquiry": "enquiries@brentfordfc.com",
+                "board": [
+                    {
+                        "position": "Chariman",
+                        "names": ["Cliff Crown FCA"]
+                    },
+                    {
+                        "position": "Chief Executive Officer",
+                        "names": null
+                    },
+                    {
+                        "position": "Club Secretary",
+                        "names": null
+                    },
+                    {
+                        "position": "First-team Manager",
+                        "names": ["Thomas Frank"]
+                    },
+                    {
+                        "position": "Assistant Coaches",
+                        "names": ["Brian Riemer"]
+                    },
+                    {
+                        "position": "Technical Director",
+                        "names": null
+                    },
+                    {
+                        "position": "Academy Manager",
+                        "names": null
+                    },
+                    {
+                        "position": "Directors",
+                        "names": [
+                            "Matthew Benham",
+                            "Cliff Crown FCA",
+                            "Donald Kerr",
+                            "Rasmus Ankersen",
+                            "Monique Choudhuri",
+                            "Phil Giles"
+                        ]
+                    }
+                ]
+            },
+            "social": {
+                "facebook": "https://www.facebook.com/brentfordfootballclub1889",
+                "twitter": "https://twitter.com/BrentfordFC",
+                "youtube": "https://www.youtube.com/channel/UCAalMUm3LIf504ItA3rqfug",
+                "instagram": "https://www.instagram.com/brentfordfc/?hl=en"
+            }
+        },
+        {
+            "id": "T04",
+            "meta": {
+                "name": "Brighton and Hove Albion",
+                "stadium": "Amex Stadium"
+            },
+            "images": {
+                "crest": "https://resources.premierleague.com/premierleague/badges/t36.svg",
+                "stadium": "https://www.premierleague.com/resources/prod/d34efdf-3658/i/stadiums/club-profile/t36.jpg"
+            },
+            "players": [
+                {
+                    "jerseyNo": 12,
+                    "name": "Jed Steer",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p79852.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 26,
+                    "name": "Emiliano Martínez",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p98980.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 38,
+                    "name": "Viljami Sinisalo",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p248164.png",
+                    "nationality": {
+                        "country": "Finland",
+                        "nationality": "Finnish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png"
+                    }
+                },
+                {
+                    "jerseyNo": 2,
+                    "name": "Matthew Cash",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199796.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 4,
+                    "name": "Ezri Konsa",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199798.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 5,
+                    "name": "Tyrone Mings",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p149484.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 18,
+                    "name": "Ashley Young",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p18892.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 16,
+                    "name": "Axel Tuanzebe",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p180804.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 7,
+                    "name": "John McGinn",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p122806.png",
+                    "nationality": {
+                        "country": "Scotland",
+                        "nationality": "Scottish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 21,
+                    "name": "Anwar El Ghazi",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p193488.png",
+                    "nationality": {
+                        "country": "Netherlands",
+                        "nationality": "Dutch",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 41,
+                    "name": "Jacob Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p232653.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 10,
+                    "name": "Emiliano Buendiao",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p195546.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 40,
+                    "name": "Aaron Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p447715.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 9,
+                    "name": "Wesley",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p213345.png",
+                    "nationality": {
+                        "country": "Brazil",
+                        "nationality": "Brazilian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 11,
+                    "name": "Ollie Watkins",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178301.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 20,
+                    "name": "Danny Ings",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p84939.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                }
+            ],
+            "directory": {
+                "address": "American Express Community Stadium ,Village Way, Brighton, BN1 9BL",
+                "contact": {
+                    "main": {
+                        "label": "Main Switchboard",
+                        "tel": " 01273 668 855"
+                    },
+                    "ticket": {
+                        "label": "Contact Center/Ticket Office",
+                        "tel": "0844 327 1901"
+                    }
+                },
+                "website": "www.brightonandhovealbion.com",
+                "enquiry": "supporter.services@bhafc.co.uk",
+                "board": [
+                    {
+                        "position": "Chariman",
+                        "names": ["Tony Bloom "]
+                    },
+                    {
+                        "position": "Chief Executive Officer",
+                        "names": ["Paul Barber"]
+                    },
+                    {
+                        "position": "Club Secretary",
+                        "names": ["Brett Baker"]
+                    },
+                    {
+                        "position": "First-team Manager",
+                        "names": ["Graham Potter"]
+                    },
+                    {
+                        "position": "Assistant Coaches",
+                        "names": null
+                    },
+                    {
+                        "position": "Technical Director",
+                        "names": ["Dan Ashworth"]
+                    },
+                    {
+                        "position": "Academy Manager",
+                        "names": ["John Morling"]
+                    },
+                    {
+                        "position": "Directors",
+                        "names": [
+                            "Tony Bloom",
+                            "Paul Barber",
+                            "Ray Bloom",
+                            "Derek Chapman"
+                        ]
+                    }
+                ]
+            },
+            "social": {
+                "facebook": "https://www.facebook.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "twitter": "https://twitter.com/OfficialBHAFC/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "youtube": "https://www.youtube.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "instagram": "https://www.instagram.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+            }
+        },
+        {
+            "id": "T05",
+            "meta": {
+                "name": "Burnley",
+                "stadium": "Turf Moor"
+            },
+            "images": {
+                "crest": "https://resources.premierleague.com/premierleague/badges/t90.svg",
+                "stadium": "https://www.premierleague.com/resources/prod/d34efdf-3658/i/stadiums/club-profile/t90.jpg"
+            },
+            "players": [
+                {
+                    "jerseyNo": 12,
+                    "name": "Jed Steer",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p79852.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 26,
+                    "name": "Emiliano Martínez",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p98980.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 38,
+                    "name": "Viljami Sinisalo",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p248164.png",
+                    "nationality": {
+                        "country": "Finland",
+                        "nationality": "Finnish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png"
+                    }
+                },
+                {
+                    "jerseyNo": 2,
+                    "name": "Matthew Cash",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199796.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 4,
+                    "name": "Ezri Konsa",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199798.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 5,
+                    "name": "Tyrone Mings",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p149484.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 18,
+                    "name": "Ashley Young",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p18892.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 16,
+                    "name": "Axel Tuanzebe",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p180804.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 7,
+                    "name": "John McGinn",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p122806.png",
+                    "nationality": {
+                        "country": "Scotland",
+                        "nationality": "Scottish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 21,
+                    "name": "Anwar El Ghazi",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p193488.png",
+                    "nationality": {
+                        "country": "Netherlands",
+                        "nationality": "Dutch",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 41,
+                    "name": "Jacob Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p232653.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 10,
+                    "name": "Emiliano Buendiao",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p195546.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 40,
+                    "name": "Aaron Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p447715.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 9,
+                    "name": "Wesley",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p213345.png",
+                    "nationality": {
+                        "country": "Brazil",
+                        "nationality": "Brazilian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 11,
+                    "name": "Ollie Watkins",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178301.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 20,
+                    "name": "Danny Ings",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p84939.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                }
+            ],
+            "directory": {
+                "address": "Turf Moor, Harry Potts Way, Burnley, Lancashire, BB10 4BX",
+                "contact": {
+                    "main": {
+                        "label": "Main Switchboard",
+                        "tel": "01282 446800"
+                    },
+                    "ticket": {
+                        "label": "Contact Center/Ticket Office",
+                        "tel": "0844 807 1882"
+                    }
+                },
+                "website": "www.burnleyfootballclub.com",
+                "enquiry": " info@burnleyfc.com",
+                "board": [
+                    {
+                        "position": "Chariman",
+                        "names": ["Alan Pace"]
+                    },
+                    {
+                        "position": "Chief Executive Officer",
+                        "names": []
+                    },
+                    {
+                        "position": "Club Secretary",
+                        "names": ["Matt Williams "]
+                    },
+                    {
+                        "position": "First-team Manager",
+                        "names": ["Sean Dyche "]
+                    },
+                    {
+                        "position": "Assistant Coaches",
+                        "names": ["Ian Woan"]
+                    },
+                    {
+                        "position": "Technical Director",
+                        "names": []
+                    },
+                    {
+                        "position": "Academy Manager",
+                        "names": ["Jonathan Pepper"]
+                    },
+                    {
+                        "position": "Directors",
+                        "names": [
+                            "Alan Pace",
+                            "Mike Garlick",
+                            "John Banaszkiewicz",
+                            "Mike Smith"
+                        ]
+                    }
+                ]
+            },
+            "social": {
+                "facebook": "https://www.facebook.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "twitter": "https://twitter.com/OfficialBHAFC/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "youtube": "https://www.youtube.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "instagram": "https://www.instagram.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+            }
+        },
+        {
+            "id": "T06",
+            "meta": {
+                "name": "Chelsea",
+                "stadium": "Stamford Bridge"
+            },
+            "images": {
+                "crest": "https://resources.premierleague.com/premierleague/badges/t8.svg",
+                "stadium": "https://www.premierleague.com/resources/prod/d34efdf-3658/i/stadiums/club-profile/t8.jpg"
+            },
+            "players": [
+                {
+                    "jerseyNo": 12,
+                    "name": "Jed Steer",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p79852.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 26,
+                    "name": "Emiliano Martínez",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p98980.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 38,
+                    "name": "Viljami Sinisalo",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p248164.png",
+                    "nationality": {
+                        "country": "Finland",
+                        "nationality": "Finnish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png"
+                    }
+                },
+                {
+                    "jerseyNo": 2,
+                    "name": "Matthew Cash",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199796.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 4,
+                    "name": "Ezri Konsa",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199798.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 5,
+                    "name": "Tyrone Mings",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p149484.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 18,
+                    "name": "Ashley Young",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p18892.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 16,
+                    "name": "Axel Tuanzebe",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p180804.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 7,
+                    "name": "John McGinn",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p122806.png",
+                    "nationality": {
+                        "country": "Scotland",
+                        "nationality": "Scottish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 21,
+                    "name": "Anwar El Ghazi",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p193488.png",
+                    "nationality": {
+                        "country": "Netherlands",
+                        "nationality": "Dutch",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 41,
+                    "name": "Jacob Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p232653.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 10,
+                    "name": "Emiliano Buendiao",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p195546.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 40,
+                    "name": "Aaron Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p447715.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 9,
+                    "name": "Wesley",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p213345.png",
+                    "nationality": {
+                        "country": "Brazil",
+                        "nationality": "Brazilian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 11,
+                    "name": "Ollie Watkins",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178301.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 20,
+                    "name": "Danny Ings",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p84939.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                }
+            ],
+            "directory": {
+                "address": "Stamford Bridge, Fulham Road, London, SW6 1HS",
+                "contact": {
+                    "main": {
+                        "label": "Main Switchboard",
+                        "tel": "0371 811 1955"
+                    },
+                    "ticket": {
+                        "label": "Contact Center/Ticket Office",
+                        "tel": "0371 811 1905"
+                    }
+                },
+                "website": "www.chelseafc.com",
+                "enquiry": "enquiries@chelseafc.com",
+                "board": [
+                    {
+                        "position": "Chariman",
+                        "names": ["Bruce Buck"]
+                    },
+                    {
+                        "position": "Chief Executive Officer",
+                        "names": ["Guy Laurence"]
+                    },
+                    {
+                        "position": "Club Secretary",
+                        "names": []
+                    },
+                    {
+                        "position": "First-team Manager",
+                        "names": ["Thomas Tuchel"]
+                    },
+                    {
+                        "position": "Assistant Coaches",
+                        "names": []
+                    },
+                    {
+                        "position": "Technical Director",
+                        "names": []
+                    },
+                    {
+                        "position": "Academy Manager",
+                        "names": []
+                    },
+                    {
+                        "position": "Directors",
+                        "names": [
+                            "Bruce Buck",
+                            "Marina Granovskaia",
+                            "Eugene Tenenbaum",
+                            "David Barnard"
+                        ]
+                    }
+                ]
+            },
+            "social": {
+                "facebook": "https://www.facebook.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "twitter": "https://twitter.com/OfficialBHAFC/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "youtube": "https://www.youtube.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "instagram": "https://www.instagram.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+            }
+        },
+        {
+            "id": "T07",
+            "meta": {
+                "name": "Crystal Palace",
+                "stadium": "Selhurst Park"
+            },
+            "images": {
+                "crest": "https://resources.premierleague.com/premierleague/badges/t31.svg",
+                "stadium": "https://www.premierleague.com/resources/prod/d34efdf-3658/i/stadiums/club-profile/t31.jpg"
+            },
+            "players": [
+                {
+                    "jerseyNo": 12,
+                    "name": "Jed Steer",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p79852.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 26,
+                    "name": "Emiliano Martínez",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p98980.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 38,
+                    "name": "Viljami Sinisalo",
+                    "position": "Goalkeeper",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p248164.png",
+                    "nationality": {
+                        "country": "Finland",
+                        "nationality": "Finnish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png"
+                    }
+                },
+                {
+                    "jerseyNo": 2,
+                    "name": "Matthew Cash",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199796.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 4,
+                    "name": "Ezri Konsa",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p199798.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 5,
+                    "name": "Tyrone Mings",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p149484.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 18,
+                    "name": "Ashley Young",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p18892.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 16,
+                    "name": "Axel Tuanzebe",
+                    "position": "Defender",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p180804.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 7,
+                    "name": "John McGinn",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p122806.png",
+                    "nationality": {
+                        "country": "Scotland",
+                        "nationality": "Scottish",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 21,
+                    "name": "Anwar El Ghazi",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p193488.png",
+                    "nationality": {
+                        "country": "Netherlands",
+                        "nationality": "Dutch",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 41,
+                    "name": "Jacob Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p232653.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 10,
+                    "name": "Emiliano Buendiao",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p195546.png",
+                    "nationality": {
+                        "country": "Argentina",
+                        "nationality": "Argentinian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Flag_of_Argentina_%28bordered%29.png"
+                    }
+                },
+                {
+                    "jerseyNo": 40,
+                    "name": "Aaron Ramsey",
+                    "position": "Midfielder",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p447715.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 9,
+                    "name": "Wesley",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p213345.png",
+                    "nationality": {
+                        "country": "Brazil",
+                        "nationality": "Brazilian",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 11,
+                    "name": "Ollie Watkins",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178301.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                },
+                {
+                    "jerseyNo": 20,
+                    "name": "Danny Ings",
+                    "position": "Forward",
+                    "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p84939.png",
+                    "nationality": {
+                        "country": "England",
+                        "nationality": "English",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png"
+                    }
+                }
+            ],
+            "directory": {
+                "address": "Selhurst Park Stadium, Holmesdale Road, London, SE25 6PU",
+                "contact": {
+                    "main": {
+                        "label": "Main Switchboard",
+                        "tel": "020 8768 6000"
+                    },
+                    "ticket": {
+                        "label": "Contact Center/Ticket Office",
+                        "tel": "0871 200 0071"
+                    }
+                },
+                "website": "www.cpfc.co.uk",
+                "enquiry": "info@cpfc.co.uk",
+                "board": [
+                    {
+                        "position": "Chariman",
+                        "names": ["Steve Parish"]
+                    },
+                    {
+                        "position": "Chief Executive Officer",
+                        "names": ["Phil Alexander"]
+                    },
+                    {
+                        "position": "Club Secretary",
+                        "names": ["Christine Dowdeswell"]
+                    },
+                    {
+                        "position": "First-team Manager",
+                        "names": ["Patrick Vieira"]
+                    },
+                    {
+                        "position": "Assistant Coaches",
+                        "names": ["Kristian Wilson"]
+                    },
+                    {
+                        "position": "Technical Director",
+                        "names": []
+                    },
+                    {
+                        "position": "Academy Manager",
+                        "names": ["Gary Issot"]
+                    },
+                    {
+                        "position": "Directors",
+                        "names": [
+                            "Steve Parish",
+                            "David Blitzer",
+                            "Eugene Tenenbaum",
+                            "Joshua Harris"
+                        ]
+                    }
+                ]
+            },
+            "social": {
+                "facebook": "https://www.facebook.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "twitter": "https://twitter.com/OfficialBHAFC/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "youtube": "https://www.youtube.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link",
+                "instagram": "https://www.instagram.com/officialbhafc/?utm_source=premier-league-website&utm_campaign=website&utm_medium=link"
+            }
         }
     ],
     "standings": [
